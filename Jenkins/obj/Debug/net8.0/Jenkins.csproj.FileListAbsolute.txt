@@ -1,0 +1,14 @@
+C:\Users\diyar\BACKEND\Jenkins\bin\Debug\net8.0\Jenkins.exe
+C:\Users\diyar\BACKEND\Jenkins\bin\Debug\net8.0\Jenkins.deps.json
+C:\Users\diyar\BACKEND\Jenkins\bin\Debug\net8.0\Jenkins.runtimeconfig.json
+C:\Users\diyar\BACKEND\Jenkins\bin\Debug\net8.0\Jenkins.dll
+C:\Users\diyar\BACKEND\Jenkins\bin\Debug\net8.0\Jenkins.pdb
+C:\Users\diyar\BACKEND\Jenkins\obj\Debug\net8.0\Jenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diyar\BACKEND\Jenkins\obj\Debug\net8.0\Jenkins.AssemblyInfoInputs.cache
+C:\Users\diyar\BACKEND\Jenkins\obj\Debug\net8.0\Jenkins.AssemblyInfo.cs
+C:\Users\diyar\BACKEND\Jenkins\obj\Debug\net8.0\Jenkins.csproj.CoreCompileInputs.cache
+C:\Users\diyar\BACKEND\Jenkins\obj\Debug\net8.0\Jenkins.dll
+C:\Users\diyar\BACKEND\Jenkins\obj\Debug\net8.0\refint\Jenkins.dll
+C:\Users\diyar\BACKEND\Jenkins\obj\Debug\net8.0\Jenkins.pdb
+C:\Users\diyar\BACKEND\Jenkins\obj\Debug\net8.0\Jenkins.genruntimeconfig.cache
+C:\Users\diyar\BACKEND\Jenkins\obj\Debug\net8.0\ref\Jenkins.dll
